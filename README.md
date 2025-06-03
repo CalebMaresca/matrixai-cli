@@ -169,7 +169,6 @@ This project is licensed under the **AGPL v3.0 (Affero General Public License)**
 ### What this means:
 
 - **✅ You can freely use, modify, and distribute this code**
-- **✅ You can use it for commercial purposes**
 - **⚠️ If you modify and distribute or deploy the code, you must share your changes under the same AGPL v3.0 license**
 - **⚠️ If you run this software on a server or provide it as a web service, you must make the complete source code (including any modifications) available to anyone who interacts with the service**
 - **❌ You cannot combine this code with proprietary code without releasing your entire codebase under AGPL v3.0**
