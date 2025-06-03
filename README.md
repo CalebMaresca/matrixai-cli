@@ -1,4 +1,4 @@
-# Matrix Wargame CLI
+# MatrixAI CLI
 
 A command-line interface for running AI-powered matrix wargame simulations. MatrixAI uses structured simulations that use systematic frameworks to explore how different actors might behave in complex scenarios, providing insights into potential outcomes and unintended consequences of various actions and decisions.
 
