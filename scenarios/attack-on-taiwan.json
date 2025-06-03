@@ -1,0 +1,165 @@
+{
+  "name": "Attack on Taiwan",
+  "category": "Military",
+  "description": "Military buildup across the Taiwan Strait threatens to ignite global conflict",
+  "introduction": "In the early hours of March 15th, 2025, Chinese military aircraft conducted unprecedented incursions into Taiwan's Air Defense Identification Zone, with over 150 sorties including H-6 bombers and fighter escorts. Simultaneously, satellite imagery revealed massive buildup of amphibious assault vessels across multiple Chinese ports facing Taiwan. The Taiwanese government has activated its mobilization protocols, while the United States has dispatched additional naval assets to the region. As diplomatic channels strain and military postures escalate, the world watches what could become the defining conflict of the 21st century.",
+  "background_briefing": "The Taiwan crisis of 2025 represents the culmination of decades of rising tensions across the Taiwan Strait. Following China's accelerated military modernization and increasing assertiveness in the South China Sea, cross-strait relations have deteriorated significantly since 2020. The current crisis was triggered by Taiwan's announcement of formal talks with Lithuania regarding expanded semiconductor cooperation, which Beijing viewed as a violation of the One China principle. China's response escalated from diplomatic protests to economic sanctions, and now to military demonstration of force.\n\nThe People's Liberation Army (PLA) has spent two decades preparing for this scenario, developing anti-access/area-denial capabilities specifically designed to deter U.S. intervention while building the amphibious and airborne capabilities necessary for a cross-strait invasion. Taiwan has responded with its 'porcupine' defense strategy, emphasizing asymmetric capabilities, coastal defense, and urban warfare preparations. The island's semiconductor industry, producing over 60% of the world's advanced chips, makes this conflict globally significant beyond regional security implications.\n\nThe United States faces its most serious alliance test since the Cold War. The Taiwan Relations Act commits the U.S. to providing defensive weapons but deliberately maintains strategic ambiguity about direct military intervention. Recent statements by the current administration have suggested stronger support for Taiwan, but the costs of confronting China directly would be enormous. Japan, hosting major U.S. bases critical for any Taiwan intervention, faces difficult choices between alliance obligations and avoiding devastating retaliation against its homeland.\n\nGlobally, the conflict threatens to divide the international community along new lines. European allies largely support Taiwan but fear economic retaliation from China. Southeast Asian nations, caught between their largest trading partner and security guarantor, seek to avoid choosing sides. The economic implications are staggering - disruption of Taiwan's semiconductor production alone could trigger a global recession, while conflict in one of the world's busiest shipping lanes would devastate international trade.\n\nThe military balance has shifted significantly in China's favor over the past decade. The PLA can now credibly threaten Taiwan with missile strikes, air superiority, and potential amphibious invasion, while its anti-ship missiles and air defenses complicate U.S. intervention. However, Taiwan's defense improvements, difficult invasion geography, and potential U.S. involvement still make the outcome highly uncertain. The current crisis represents the moment when theoretical planning meets real-world decision-making under extreme pressure.",
+  "actors": [
+    {
+      "actor_name": "People's Republic of China (PRC)",
+      "actor_briefing": "You are the Chinese leadership facing what you consider the most critical moment in the nation's reunification mission. For decades, you have built military capabilities specifically for this scenario while hoping peaceful reunification would eventually prevail. Taiwan's increasingly provocative moves toward independence, combined with growing U.S. support, have convinced you that time is running out for peaceful resolution.\n\nYour military advantages are substantial but time-sensitive. The PLA can currently overwhelm Taiwan's air defenses and naval forces, but U.S. intervention could complicate or defeat an invasion attempt. Your missile forces can strike targets throughout Taiwan and pose serious threats to U.S. bases in Japan and Guam. However, your amphibious capabilities, while greatly improved, remain limited and vulnerable during transit.\n\nDomestically, reunification enjoys broad popular support, but the costs of prolonged conflict could undermine the Party's legitimacy. Economically, you are more self-sufficient than in the past but still vulnerable to sanctions and supply chain disruption. Your relationship with Russia provides some geopolitical backing, but most other major powers oppose military action.\n\nYour objectives require balancing immediate military necessities with long-term strategic costs. Success means not just military victory but achieving reunification without destroying what you seek to reclaim or triggering broader conflicts that could devastate China's rise.",
+      "objectives": [
+        "Achieve rapid military control of Taiwan to present fait accompli to international community",
+        "Prevent effective U.S. military intervention through deterrence or area denial",
+        "Minimize damage to Taiwan's infrastructure and population to ease eventual integration",
+        "Maintain domestic support while managing economic costs of military action and sanctions",
+        "Prevent conflict escalation beyond Taiwan theater to avoid existential threats to mainland China"
+      ],
+      "starting_forces": [
+        {
+          "unit_name": "Southern Theater Command",
+          "starting_location": "Guangdong Province",
+          "details": "Primary command responsible for Taiwan operations, including ground forces, air force, and rocket force units"
+        },
+        {
+          "unit_name": "Eastern Theater Command Naval Forces",
+          "starting_location": "Fujian Coast",
+          "details": "Amphibious assault ships, destroyers, submarines, and landing craft concentrated for potential invasion"
+        },
+        {
+          "unit_name": "PLA Air Force Taiwan Strike Package",
+          "starting_location": "Airfields across Eastern China",
+          "details": "Fighter aircraft, bombers, transport aircraft, and support assets for air superiority and ground attack"
+        },
+        {
+          "unit_name": "PLA Rocket Force Anti-Access Missiles",
+          "starting_location": "Mobile Launch Sites",
+          "details": "DF-21D and DF-26 anti-ship ballistic missiles targeting U.S. naval forces and regional bases"
+        },
+        {
+          "unit_name": "Information Warfare and Cyber Command",
+          "starting_location": "Beijing",
+          "details": "Cyber attack capabilities, electronic warfare systems, and information operations targeting Taiwan and U.S. systems"
+        }
+      ]
+    },
+    {
+      "actor_name": "Republic of China (Taiwan)",
+      "actor_briefing": "You are the Taiwanese leadership facing an existential threat to your nation's survival as a free democracy. For decades, you have lived under the threat of Chinese invasion while building a prosperous democracy and critical position in global technology supply chains. The current crisis represents your worst fears realized, but also the moment to demonstrate that Taiwan will not submit without a devastating fight.\n\nYour military strategy acknowledges you cannot defeat China in conventional warfare, but you can make invasion so costly that Beijing reconsiders or the international community intervenes. Your 'porcupine' defense emphasizes mobile anti-ship missiles, air defense systems, and preparation for urban warfare. The mountainous terrain of Taiwan's interior and the difficulty of amphibious operations provide natural advantages you have worked to maximize.\n\nYour greatest assets are your people's determination to remain free, your critical role in global semiconductor production that gives the world economic incentives to support you, and your relationship with the United States. However, you cannot count on automatic U.S. intervention and must be prepared to fight alone initially. Your population of 23 million includes many with military training through conscription, potentially providing significant irregular warfare capabilities.\n\nInternational support is crucial but uncertain. Japan and South Korea face their own threats from Chinese retaliation if they support you. European nations may provide political support but little military assistance. Your diplomatic strategy must focus on maintaining maximum international pressure on Beijing while preparing for the worst-case scenario of isolation.",
+      "objectives": [
+        "Survive initial Chinese assault and maintain organized resistance to prevent quick defeat",
+        "Inflict maximum casualties on Chinese invasion forces to raise costs and deter continued aggression",
+        "Maintain control of critical ports and airports to enable international aid and intervention",
+        "Preserve civilian infrastructure and population while conducting effective defense",
+        "Secure international diplomatic support and potential military intervention, especially from the United States"
+      ],
+      "starting_forces": [
+        {
+          "unit_name": "Republic of China Armed Forces Joint Operations Command",
+          "starting_location": "Taipei",
+          "details": "Overall command and control coordinating army, navy, air force, and reserves for island defense"
+        },
+        {
+          "unit_name": "Taiwan Air Defense Network",
+          "starting_location": "Multiple sites across Taiwan",
+          "details": "Patriot missile batteries, indigenous air defense systems, and fighter aircraft in hardened shelters"
+        },
+        {
+          "unit_name": "Coastal Defense Command",
+          "starting_location": "Western Taiwan coastline",
+          "details": "Anti-ship missile systems, coastal artillery, naval mines, and beach defense preparations"
+        },
+        {
+          "unit_name": "Reserve Mobilization Units",
+          "starting_location": "Population centers",
+          "details": "Territorial defense forces, civil defense organizations, and recently mobilized reservists"
+        },
+        {
+          "unit_name": "Semiconductor Facility Security",
+          "starting_location": "Hsinchu and Taichung",
+          "details": "Specialized units protecting critical TSMC and other chip manufacturing facilities from sabotage"
+        }
+      ]
+    },
+    {
+      "actor_name": "United States of America",
+      "actor_briefing": "You are the U.S. leadership facing the most consequential foreign policy decision since World War II. The crisis over Taiwan tests your credibility as a global power, your commitment to democratic allies, and your willingness to risk great power conflict to maintain the international order you have led for eight decades.\n\nYour strategic advantages include the world's most powerful military, especially naval and air forces capable of projecting power globally. Your alliance network, economic leverage, and soft power provide tools beyond military force. However, China's anti-access capabilities make intervention costly and uncertain. Chinese nuclear weapons ensure any conflict carries escalation risks that could threaten American cities.\n\nDomestically, the American public shows support for Taiwan but limited appetite for costly overseas conflicts. Congress will likely support strong action initially, but sustained casualties could erode support. Economically, conflict would disrupt critical supply chains and potentially trigger recession, but Chinese control of Taiwan would have even worse long-term implications for U.S. technological competitiveness.\n\nYour alliance relationships face severe testing. Japan's support is crucial for any effective intervention, but asking Japan to risk nuclear retaliation for Taiwan strains even the closest alliance. European allies want you to lead but offer limited military support for conflicts in Asia. You must balance alliance management with decisive action while maintaining escalation control.",
+      "objectives": [
+        "Prevent Chinese military conquest of Taiwan through deterrence or direct intervention",
+        "Maintain credibility of U.S. security commitments throughout the Indo-Pacific region",
+        "Coordinate effective international response including sanctions and diplomatic isolation of China",
+        "Minimize risk of nuclear escalation while demonstrating resolve to defend democratic allies",
+        "Preserve long-term U.S. strategic position and access to critical Taiwan semiconductor production"
+      ],
+      "starting_forces": [
+        {
+          "unit_name": "U.S. Indo-Pacific Command",
+          "starting_location": "Hawaii",
+          "details": "Overall command coordinating forces across the Pacific for potential Taiwan intervention"
+        },
+        {
+          "unit_name": "U.S. Seventh Fleet Task Forces",
+          "starting_location": "Western Pacific",
+          "details": "Aircraft carriers, destroyers, submarines, and support vessels positioned for rapid response"
+        },
+        {
+          "unit_name": "U.S. Forces Japan",
+          "starting_location": "Japanese bases",
+          "details": "Air force fighters, bombers, and support aircraft based at Kadena, Misawa, and other key facilities"
+        },
+        {
+          "unit_name": "U.S. Strategic Command Nuclear Forces",
+          "starting_location": "Continental United States",
+          "details": "Nuclear deterrent forces including ICBMs, strategic bombers, and ballistic missile submarines"
+        },
+        {
+          "unit_name": "U.S. Cyber Command Pacific Operations",
+          "starting_location": "Multiple locations",
+          "details": "Cyber warfare capabilities and electronic attack systems targeting Chinese military networks"
+        }
+      ]
+    },
+    {
+      "actor_name": "Japan",
+      "actor_briefing": "You are the Japanese leadership facing an impossible choice between alliance loyalty and national survival. As the United States' most important Pacific ally and host to bases crucial for any Taiwan intervention, your decisions will likely determine whether the U.S. can effectively respond to Chinese aggression. However, supporting U.S. military action could make Japan a target for devastating Chinese retaliation.\n\nYour strategic position is both critical and vulnerable. U.S. bases in Japan, especially Kadena Air Base in Okinawa, are essential for projecting power into the Taiwan Strait. Your advanced missile defense systems and Self-Defense Forces could provide crucial support. However, your population centers and industrial facilities are within range of Chinese missiles, and your energy supplies depend heavily on shipping lanes that China could threaten.\n\nDomestically, the Japanese public remains pacifist-leaning despite growing concern about Chinese assertiveness. The ruling party generally supports the U.S. alliance, but faces difficult questions about the costs of confronting China. Your constitution's restrictions on collective self-defense have been reinterpreted to allow support for allies under attack, but direct combat involvement remains controversial.\n\nEconomically, China is your largest trading partner, but Taiwan's semiconductor industry is crucial to Japanese technology companies. Conflict would devastate your economy regardless of the outcome, but Chinese hegemony over Taiwan could threaten Japan's long-term security and economic competitiveness. Your decision will shape not just this crisis but the entire future of the U.S.-Japan alliance.",
+      "objectives": [
+        "Support U.S. alliance commitments while minimizing risk of devastating retaliation against Japanese territory",
+        "Prevent Chinese hegemony over Taiwan that would threaten Japan's security and economic interests",
+        "Maintain domestic political stability while making difficult decisions about war and peace",
+        "Preserve critical economic relationships while upholding democratic values and international law",
+        "Strengthen Japan's long-term security position regardless of conflict outcome"
+      ],
+      "starting_forces": [
+        {
+          "unit_name": "Japan Self-Defense Forces Joint Staff",
+          "starting_location": "Tokyo",
+          "details": "Command coordination for potential support of U.S. operations and defense of Japanese territory"
+        },
+        {
+          "unit_name": "U.S. Base Support and Security",
+          "starting_location": "Okinawa and mainland Japan",
+          "details": "Protection of U.S. facilities and coordination for potential combat operations from Japanese territory"
+        },
+        {
+          "unit_name": "Missile Defense Network",
+          "starting_location": "Throughout Japan",
+          "details": "Aegis destroyers, Patriot batteries, and radar systems defending against Chinese missile attacks"
+        },
+        {
+          "unit_name": "Maritime Self-Defense Force",
+          "starting_location": "Japanese waters",
+          "details": "Destroyers, submarines, and patrol aircraft monitoring Chinese naval movements"
+        },
+        {
+          "unit_name": "Economic Defense Coordination",
+          "starting_location": "Tokyo",
+          "details": "Managing economic disruption, supply chain protection, and coordination of sanctions if implemented"
+        }
+      ]
+    }
+  ],
+  "victory_conditions": "The game ends when: 1) China achieves effective control over Taiwan with minimal international intervention, 2) Taiwan successfully repels invasion with international support, 3) A negotiated ceasefire is reached that preserves the status quo, or 4) Conflict escalates beyond the Taiwan theater threatening global stability. Victory is measured by each actor's achievement of their strategic objectives while avoiding catastrophic losses.",
+  "turn_length": "48-72 hours",
+  "game_length": 8,
+  "designer_notes": "This scenario is designed to explore the complex decisions facing all parties in a Taiwan crisis, emphasizing the fog of war, alliance dynamics, and escalation management. Players must balance immediate tactical decisions with long-term strategic consequences. The scenario assumes realistic military capabilities as of 2025 and reflects actual stated policies and capabilities of all parties involved."
+} 

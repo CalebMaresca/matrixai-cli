@@ -1,0 +1,92 @@
+{
+  "name": "Emergency Climate Summit",
+  "category": "Environmental",
+  "description": "Urgent global negotiations as climate tipping points approach critical thresholds",
+  "introduction": "The latest climate reports show accelerating ice sheet collapse and unprecedented extreme weather events. Global temperatures have risen beyond earlier projections, triggering emergency international negotiations. Developing nations demand immediate climate financing while developed countries face domestic economic pressures. Time is running out to prevent irreversible tipping points, but national interests and economic realities create seemingly impossible negotiation dynamics.",
+  "background_briefing": "Recent scientific evidence indicates several climate tipping points are closer than previously thought, with potential for cascading effects within this decade. The global economy is already experiencing supply chain disruptions from extreme weather, while millions face displacement from rising seas and drought. Previous climate agreements have fallen short of targets, creating urgent pressure for more ambitious commitments. However, domestic political constraints and economic competition continue to limit negotiators' flexibility.",
+  "actors": [
+    {
+      "actor_name": "Developed Nations Coalition",
+      "actor_briefing": "You represent wealthy industrialized nations with high historical emissions but strong technological capabilities. Your populations expect maintained living standards while pressure mounts for climate leadership. You face domestic political backlash from rapid transitions but have the technology and finance to lead solutions.",
+      "objectives": [
+        "Maintain economic competitiveness while showing climate leadership",
+        "Avoid binding commitments that disadvantage domestic industries",
+        "Leverage technological advantages in clean energy transitions",
+        "Balance domestic political pressures with international expectations"
+      ],
+      "starting_forces": [
+        {
+          "unit_name": "Climate Technology Consortium",
+          "starting_location": "Innovation Centers",
+          "details": "Advanced renewable energy and carbon capture technologies"
+        },
+        {
+          "unit_name": "Financial Institutions",
+          "starting_location": "Global Markets",
+          "details": "Massive capital resources for climate investment"
+        },
+        {
+          "unit_name": "Diplomatic Corps",
+          "starting_location": "International Forums",
+          "details": "Experienced negotiators with established relationships"
+        }
+      ]
+    },
+    {
+      "actor_name": "Emerging Economies Bloc",
+      "actor_briefing": "You represent rapidly developing nations with growing emissions but legitimate development needs. Your populations demand economic growth and poverty reduction, while you face the worst climate impacts despite lower historical responsibility. You need massive financial and technology transfer to achieve clean development.",
+      "objectives": [
+        "Secure substantial climate financing and technology transfer",
+        "Maintain sovereign right to development and economic growth",
+        "Hold developed nations accountable for historical emissions",
+        "Protect vulnerable populations from climate impacts"
+      ],
+      "starting_forces": [
+        {
+          "unit_name": "Development Coalition",
+          "starting_location": "Regional Headquarters",
+          "details": "Coordinated negotiating position among emerging economies"
+        },
+        {
+          "unit_name": "Climate Vulnerability Caucus",
+          "starting_location": "Affected Regions",
+          "details": "Documentation of climate impacts and adaptation needs"
+        },
+        {
+          "unit_name": "South-South Cooperation Network",
+          "starting_location": "Technical Centers",
+          "details": "Shared expertise and alternative development models"
+        }
+      ]
+    },
+    {
+      "actor_name": "Small Island States Alliance",
+      "actor_briefing": "You represent nations facing existential threats from sea level rise and extreme weather. Your survival depends on immediate, ambitious action from major emitters. You have minimal emissions but maximum vulnerability, giving you moral authority but limited negotiating power except through coalition building and international pressure.",
+      "objectives": [
+        "Secure commitments preventing catastrophic temperature rise",
+        "Establish loss and damage compensation mechanisms",
+        "Maintain international attention on climate urgency",
+        "Build coalitions to pressure major emitters"
+      ],
+      "starting_forces": [
+        {
+          "unit_name": "Moral Authority Coalition",
+          "starting_location": "International Forums",
+          "details": "Compelling testimony and documentation of existential threat"
+        },
+        {
+          "unit_name": "Scientific Advisory Panel",
+          "starting_location": "Research Institutions",
+          "details": "Authoritative climate science and impact projections"
+        },
+        {
+          "unit_name": "Youth Climate Movement",
+          "starting_location": "Global Networks",
+          "details": "Grassroots pressure and international solidarity campaigns"
+        }
+      ]
+    }
+  ],
+  "turn_length": "1 week",
+  "game_length": 4
+} 

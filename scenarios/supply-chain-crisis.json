@@ -1,0 +1,165 @@
+{
+  "name": "The Great Supply Chain Collapse of 2025",
+  "category": "Economic",
+  "description": "Multiple simultaneous disruptions trigger the worst global supply chain crisis since World War II",
+  "introduction": "March 15, 2025: At 09:30 GMT, the Ever Forward, a 24,000 TEU ultra-large container vessel, loses power and grounds across the Suez Canal, completely blocking traffic in both directions. Hours later, dockworkers at the Port of Los Angeles begin an indefinite strike over automation disputes. By evening, a catastrophic earthquake damages TSMC's primary semiconductor fabrication facilities in Taiwan, eliminating 40% of global advanced chip production. As shipping rates spike 400% overnight and cargo aircraft are chartered at unprecedented rates, the interconnected global economy faces its most severe supply chain crisis in modern history.",
+  "background_briefing": "The 2025 Global Supply Chain Collapse represents the convergence of systemic vulnerabilities that have been building since the COVID-19 pandemic revealed the fragility of just-in-time manufacturing and globalized production networks. Despite promises of 'supply chain resilience' and 'nearshoring,' corporate cost pressures and consumer demand for low prices have maintained the same concentrated, vulnerable structures that proved so brittle in 2020-2022.\n\nThe Suez Canal blockage represents more than a single point of failure - it exposes the extreme concentration of global trade routes. The canal handles 12% of global trade and 30% of container traffic, including critical supplies of energy, food, and manufactured goods for Europe and North America. The Ever Forward's grounding, caused by a suspected cyber attack on its navigation systems, creates a perfect storm when combined with the simultaneous Taiwan earthquake and West Coast port strike.\n\nThe semiconductor crisis triggers immediate effects across multiple industries. Modern automobiles contain over 1,400 semiconductors each, meaning production lines from Detroit to Stuttgart face immediate shutdowns. Data centers require continuous chip upgrades to maintain cloud services, while consumer electronics from smartphones to appliances become scarce within weeks. The concentration of advanced chip production in Taiwan - over 60% of global capacity - creates a single point of failure for the entire digital economy.\n\nThe West Coast port strike reflects deeper automation tensions in the logistics industry. The International Longshore and Warehouse Union (ILWU) demands guarantees against job displacement from automated cranes and container handling systems. However, the Port of Los Angeles handles 40% of U.S. container imports, making this labor dispute a national economic emergency. Alternative ports lack capacity to handle diverted cargo, creating bottlenecks that ripple across North America.\n\nGlobal just-in-time manufacturing, optimized for efficiency over resilience, amplifies each disruption. Automotive assembly lines shut down within days when tire imports are delayed. Pharmaceutical production halts when active pharmaceutical ingredients (APIs) from India cannot reach European facilities. Food distribution networks face shortages of packaging materials, refrigeration equipment, and transportation capacity simultaneously.\n\nThe economic implications cascade through interconnected systems: insurance companies face billions in claims from business interruption and cargo delays; shipping companies see both windfall profits from rate spikes and massive costs from vessel diversions; manufacturers must choose between expensive air freight and production shutdowns; and retailers face inventory shortages during peak consumer demand periods.\n\nGovernment responses vary dramatically based on national strategic priorities and supply chain dependencies. The United States considers invoking the Defense Production Act to prioritize critical supplies, while European nations debate energy rationing as LNG shipments are delayed. China, with more domestic production capacity, sees opportunity to expand market share while competitors struggle with supply shortages.\n\nConsumer behavior amplifies supply pressures through panic buying and hoarding. Social media spreads fears about specific shortages, creating artificial demand spikes that overwhelm distribution networks. Retailers struggle to implement purchase limits while maintaining customer relationships and competitive positions.\n\nThe crisis reveals the true cost of decades of supply chain optimization that prioritized cost reduction over resilience. Industries that seemed efficient and profitable prove catastrophically vulnerable when multiple disruptions occur simultaneously. The response will determine whether global supply chains become more resilient or simply return to the same vulnerabilities once immediate pressures subside.",
+  "actors": [
+    {
+      "actor_name": "Global Maritime Emergency Council",
+      "actor_briefing": "You coordinate the response for the world's largest shipping companies, port operators, and logistics providers managing the most severe supply chain crisis in maritime history. Your members include Maersk, MSC, COSCO, and other carriers that collectively control 80% of global container capacity. The Suez Canal blockage has stranded $9 billion worth of cargo daily while forcing impossible choices about route diversions that could take weeks longer and cost exponentially more.\n\nYour industry's business model depends on predictable schedules and efficient asset utilization, but current disruptions have shattered normal operations. Container ships designed for 2-week Pacific crossings now face 6-week journeys around Africa. Port congestion means vessels wait weeks for berths, while empty containers accumulate in wrong locations globally. Your customers demand service despite impossible conditions, threatening relationships built over decades.\n\nYour operational advantages include the world's largest vessels and most sophisticated logistics networks; established relationships with ports, terminals, and inland transportation providers; advanced tracking systems providing real-time visibility across global supply chains; and financial resources to absorb short-term losses while seeking longer-term solutions. Your experience managing previous crises provides institutional knowledge about emergency response procedures.\n\nHowever, you face unprecedented challenges: the scale of current disruptions exceeds all previous crisis response capabilities; customers demand contractual performance that is physically impossible; insurance coverage may not extend to force majeure events of this magnitude; and crew welfare concerns as vessels face extended voyages with delayed crew changes. Your industry's concentration means that failures cascade quickly across global networks.\n\nYour strategic position requires balancing immediate customer service with long-term business viability. Success means maintaining cargo flow while managing escalating costs and customer relationships. Your response will determine whether the industry emerges stronger with more resilient networks or faces permanent shifts as customers seek alternative supply chain structures.",
+      "objectives": [
+        "Restore global shipping capacity through alternative routes and emergency protocols",
+        "Manage customer relationships and contractual obligations during unprecedented disruptions",
+        "Coordinate with governments and international authorities to clear canal blockage rapidly",
+        "Maintain crew welfare and vessel safety during extended emergency operations",
+        "Preserve industry reputation and prevent permanent customer shift to alternative transport modes"
+      ],
+      "starting_forces": [
+        {
+          "unit_name": "Global Fleet Operations Command",
+          "starting_location": "Copenhagen and Singapore",
+          "details": "Real-time coordination of 5,000+ container vessels with dynamic routing algorithms"
+        },
+        {
+          "unit_name": "Emergency Salvage Consortium",
+          "starting_location": "Suez Canal",
+          "details": "Specialized heavy-lift vessels, tugs, and dredging equipment for canal clearance operations"
+        },
+        {
+          "unit_name": "Port Partnership Network",
+          "starting_location": "Major global ports",
+          "details": "Emergency capacity agreements and priority berthing arrangements with terminal operators"
+        },
+        {
+          "unit_name": "Alternative Route Planning Division",
+          "starting_location": "Maritime coordination centers",
+          "details": "Teams calculating optimal diversions around Africa and through Arctic routes"
+        },
+        {
+          "unit_name": "Customer Crisis Management",
+          "starting_location": "Regional service centers",
+          "details": "Account teams managing customer communications and priority cargo decisions"
+        }
+      ]
+    },
+    {
+      "actor_name": "G7 Economic Crisis Response Coalition",
+      "actor_briefing": "You coordinate the emergency economic response for the world's largest economies facing potential recession from supply chain collapse. Your coalition includes finance ministers, central bank governors, and emergency management officials from the United States, Germany, Japan, France, United Kingdom, Italy, and Canada. The crisis threatens to trigger inflation, unemployment, and social unrest unless governments intervene decisively with coordinated international action.\n\nYour collective advantages include the world's largest economies with combined GDP exceeding $35 trillion; extensive strategic reserves of critical materials including oil, grain, and medical supplies; sophisticated emergency response capabilities developed during COVID-19; and established diplomatic relationships enabling rapid policy coordination. Your central banks can provide unlimited liquidity while governments have fiscal resources for emergency interventions.\n\nHowever, you face complex coordination challenges as national interests diverge during crisis response. European nations prioritize energy security and manufacturing supply chains, while the United States focuses on semiconductor access and defense supply chains. Japan seeks to protect automotive production, while Canada emphasizes agricultural and resource exports. Each government faces domestic political pressure to prioritize national needs over international cooperation.\n\nYour legal and economic tools include emergency powers to invoke defense production acts and redirect private sector resources; authority to release strategic reserves and coordinate international resource sharing; ability to provide emergency financing and insurance for critical supply chain operations; and diplomatic capabilities to negotiate with non-G7 nations controlling key chokepoints and production capacity.\n\nYour strategic challenge involves balancing short-term emergency response with long-term supply chain resilience. Success requires demonstrating that democratic governments can respond effectively to economic crises while maintaining international cooperation and free trade principles. Failure could lead to economic nationalism, trade wars, and the permanent fragmentation of global supply chains.",
+      "objectives": [
+        "Coordinate international emergency response to prevent economic recession and social unrest",
+        "Ensure availability of critical supplies including food, energy, medical equipment, and semiconductors",
+        "Maintain international trade flows and prevent nationalist protectionism from fragmenting global economy",
+        "Develop coordinated policy response addressing both immediate crisis and long-term supply chain resilience",
+        "Preserve democratic institutions and international cooperation during economic emergency"
+      ],
+      "starting_forces": [
+        {
+          "unit_name": "G7 Emergency Coordination Center",
+          "starting_location": "Virtual coordination platform",
+          "details": "Real-time policy coordination between finance ministers and emergency management officials"
+        },
+        {
+          "unit_name": "Strategic Reserve Mobilization Network",
+          "starting_location": "National strategic facilities",
+          "details": "Coordinated release and sharing of oil, grain, medical supplies, and critical materials"
+        },
+        {
+          "unit_name": "Central Bank Liquidity Coalition",
+          "starting_location": "Federal Reserve and ECB",
+          "details": "Unlimited liquidity provision and currency swap arrangements to maintain financial stability"
+        },
+        {
+          "unit_name": "Defense Production Coordination Office",
+          "starting_location": "National emergency centers",
+          "details": "Authority to redirect private sector production toward critical national needs"
+        },
+        {
+          "unit_name": "International Trade Emergency Task Force",
+          "starting_location": "WTO and bilateral channels",
+          "details": "Diplomatic efforts to maintain trade flows and negotiate with non-G7 suppliers"
+        }
+      ]
+    },
+    {
+      "actor_name": "Global Manufacturing Crisis Alliance",
+      "actor_briefing": "You represent the emergency coalition of multinational manufacturers whose production networks face complete collapse from simultaneous supply chain failures. Your alliance includes automotive giants like Toyota, Volkswagen, and General Motors; technology companies including Apple, Samsung, and Dell; pharmaceutical manufacturers like Pfizer and Roche; and consumer goods companies including Unilever and Procter & Gamble. Collectively, your members employ 50 million people globally and generate $8 trillion in annual revenue.\n\nYour crisis stems from decades of supply chain optimization that prioritized cost efficiency over resilience. Just-in-time manufacturing means your assembly lines halt within days when key components are delayed. Your global production networks depend on precise coordination of thousands of suppliers, making any disruption catastrophic. The current crisis affects multiple input categories simultaneously: semiconductors from Taiwan, rare earth materials from China, automotive parts from Germany, and logistics services from everywhere.\n\nYour immediate advantages include substantial financial resources for emergency procurement and alternative sourcing; sophisticated supply chain visibility systems providing real-time tracking of inventory and production capacity; established relationships with suppliers that can be leveraged for priority treatment; and technical expertise to rapidly redesign products around available components. Your scale provides negotiating power with logistics providers and governments.\n\nHowever, you face existential threats to business continuity: production shutdowns could trigger permanent customer defection to competitors with more resilient supply chains; workforce layoffs could devastate local communities and invite government intervention; shareholder pressure demands maintaining profitability despite emergency spending; and competitive dynamics limit information sharing even during collective crisis response.\n\nYour strategic response must balance short-term survival with long-term competitiveness. Success means maintaining production and market share while building more resilient supply chains. Failure could mean permanent loss of market position to competitors who better navigate the crisis or to new entrants with more resilient business models.",
+      "objectives": [
+        "Maintain critical production lines through emergency sourcing and alternative suppliers",
+        "Coordinate industry-wide response to secure priority access to scarce components and logistics capacity",
+        "Manage workforce retention and avoid mass layoffs that could trigger government intervention",
+        "Preserve customer relationships and market share despite production constraints and delivery delays",
+        "Build long-term supply chain resilience while managing immediate crisis costs and shareholder pressure"
+      ],
+      "starting_forces": [
+        {
+          "unit_name": "Global Supply Chain Command Centers",
+          "starting_location": "Corporate headquarters worldwide",
+          "details": "Real-time monitoring of 100,000+ suppliers with AI-powered disruption prediction and response"
+        },
+        {
+          "unit_name": "Emergency Procurement Task Forces",
+          "starting_location": "Regional procurement offices",
+          "details": "Specialized teams with authority to pay premium prices for critical components and alternative sourcing"
+        },
+        {
+          "unit_name": "Industry Coordination Networks",
+          "starting_location": "Trade association centers",
+          "details": "Information sharing and collective bargaining with suppliers, logistics providers, and governments"
+        },
+        {
+          "unit_name": "Government Relations Coalition",
+          "starting_location": "Policy and regulatory centers",
+          "details": "Lobbying for emergency regulatory relief, priority treatment, and government assistance programs"
+        },
+        {
+          "unit_name": "Customer Retention Teams",
+          "starting_location": "Sales and service centers",
+          "details": "Account management and communications to maintain customer relationships during delivery delays"
+        }
+      ]
+    },
+    {
+      "actor_name": "Suez Canal Emergency Recovery Authority",
+      "actor_briefing": "You lead the international effort to clear the Suez Canal blockage and restore one of the world's most critical trade chokepoints. Your authority combines the Suez Canal Authority, international maritime law enforcement, specialized salvage companies, and Egyptian national emergency response. The Ever Forward's grounding has created a crisis affecting 12% of global trade, with 400+ vessels waiting in both directions and economic losses mounting at $9 billion per day.\n\nYour technical challenges are unprecedented in maritime history. The Ever Forward, at 400 meters long and loaded with 20,000 containers, has run completely aground across the narrowest point of the canal. Traditional refloating techniques may require removing containers, which could take weeks given the complex logistics of crane positioning and container handling in the confined canal space. Weather conditions, tidal patterns, and the vessel's structural integrity all complicate recovery operations.\n\nYour operational advantages include access to the world's most powerful tugboats and heavy-lift salvage equipment; authority to coordinate international maritime resources under emergency protocols; engineering expertise from successful recovery of the Ever Given in 2021; and diplomatic support from Egypt and international shipping organizations. Your experience with previous canal emergencies provides operational frameworks for complex recovery operations.\n\nHowever, you face intense international pressure as global supply chains collapse and economic losses mount exponentially. Every day of delay costs the global economy billions while triggering political and social instability. Media attention intensifies public scrutiny of every decision, while competing technical opinions complicate operational choices. Insurance companies, shipping lines, and governments all demand immediate solutions to problems that may require weeks to resolve safely.\n\nYour success determines not just the immediate crisis resolution but the future of global trade route security. Failure to restore canal operations quickly could trigger permanent shifts to alternative routes and supply chain structures, devastating Egypt's economy and reshaping global maritime trade patterns.",
+      "objectives": [
+        "Clear the Suez Canal blockage safely and restore full navigation capacity as rapidly as possible",
+        "Coordinate international salvage resources and technical expertise for complex recovery operations",
+        "Manage global economic and political pressure while maintaining operational safety and effectiveness",
+        "Preserve the Suez Canal's reputation and strategic importance for global maritime trade",
+        "Investigate potential cyber attack on vessel navigation systems and prevent future incidents"
+      ],
+      "starting_forces": [
+        {
+          "unit_name": "International Salvage Fleet",
+          "starting_location": "Suez Canal",
+          "details": "12 heavy-duty tugboats, specialized dredging equipment, and heavy-lift cranes for container removal"
+        },
+        {
+          "unit_name": "Canal Authority Operations Center",
+          "starting_location": "Ismailia, Egypt",
+          "details": "24/7 coordination of canal traffic, weather monitoring, and engineering analysis"
+        },
+        {
+          "unit_name": "Maritime Engineering Consortium",
+          "starting_location": "Recovery site",
+          "details": "International team of naval architects, marine engineers, and salvage specialists"
+        },
+        {
+          "unit_name": "Cybersecurity Investigation Unit",
+          "starting_location": "Forensic analysis centers",
+          "details": "Technical experts investigating potential cyber attack on vessel navigation systems"
+        },
+        {
+          "unit_name": "International Coordination Office",
+          "starting_location": "Cairo and London",
+          "details": "Diplomatic and media relations managing international pressure and stakeholder communications"
+        }
+      ]
+    }
+  ],
+  "victory_conditions": "The game ends when: 1) Normal supply chain operations are restored with canal clearance and labor resolution, 2) Alternative supply routes and emergency measures provide adequate capacity for critical goods, 3) Economic crisis triggers major recession requiring government intervention, or 4) Supply chain disruptions become permanent, reshaping global trade patterns. Victory is measured by each actor's ability to maintain their strategic position and minimize long-term damage.",
+  "turn_length": "3-5 days",
+  "game_length": 12,
+  "designer_notes": "This scenario explores the interconnected vulnerabilities of modern global supply chains, emphasizing how optimization for efficiency creates systemic risks. Players must balance immediate crisis response with long-term strategic positioning while managing complex international coordination challenges. The scenario reflects real supply chain vulnerabilities exposed during COVID-19 and recent maritime incidents."
+} 

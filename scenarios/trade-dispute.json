@@ -1,0 +1,89 @@
+{
+  "name": "Global Trade Dispute",
+  "category": "Economic",
+  "description": "Economic tensions escalate into a complex trade war",
+  "introduction": "The dispute centers on steel, electronics, and agricultural products where Bloc B has gained significant market share. Bloc A's unemployment has risen in affected sectors, leading to political pressure for protection. Bloc B warns that any trade barriers will trigger immediate retaliation. Global supply chains are already showing strain as companies hedge against potential disruptions. Financial markets are volatile as investors await the outcome of WTO proceedings.",
+  "background_briefing": "A major trade dispute has erupted between two economic blocs over allegations of dumping, subsidies, and market manipulation. Traditional industries in Bloc A claim they cannot compete with artificially cheap imports from Bloc B, while Bloc B argues their competitive advantages are legitimate. The WTO has been called in to arbitrate, but both sides are preparing retaliatory measures.",
+  "actors": [
+    {
+      "actor_name": "Economic Bloc A",
+      "actor_briefing": "You represent a major economic bloc facing unfair trade practices from Bloc B. Your industries are suffering from dumping and subsidized competition.",
+      "objectives": [
+        "Protect domestic industries from unfair competition",
+        "Secure favorable trade terms and market access",
+        "Maintain economic growth and employment"
+      ],
+      "starting_forces": [
+        {
+          "unit_name": "Trade Negotiation Team",
+          "starting_location": "Headquarters",
+          "details": "Experienced trade lawyers and economists"
+        },
+        {
+          "unit_name": "Industry Coalition",
+          "starting_location": "Major Cities",
+          "details": "Representing affected sectors"
+        },
+        {
+          "unit_name": "Economic Analysis Unit",
+          "starting_location": "Research Center",
+          "details": "Gathering evidence of trade violations"
+        }
+      ]
+    },
+    {
+      "actor_name": "Economic Bloc B",
+      "actor_briefing": "You represent an emerging economic bloc accused of unfair trade practices. Your rapid growth has disrupted traditional markets, but you believe your practices are legitimate.",
+      "objectives": [
+        "Defend legitimate trade practices and economic development",
+        "Maintain access to global markets",
+        "Avoid damaging retaliatory measures"
+      ],
+      "starting_forces": [
+        {
+          "unit_name": "Legal Defense Team",
+          "starting_location": "Headquarters",
+          "details": "International trade law specialists"
+        },
+        {
+          "unit_name": "Export Promotion Agency",
+          "starting_location": "Trade Centers",
+          "details": "Supporting member exporters"
+        },
+        {
+          "unit_name": "Economic Development Office",
+          "starting_location": "Regional Hub",
+          "details": "Coordinating growth strategy"
+        }
+      ]
+    },
+    {
+      "actor_name": "WTO Arbitrator",
+      "actor_briefing": "You are a World Trade Organization panel tasked with resolving this trade dispute through fair arbitration and enforcement of international trade law.",
+      "objectives": [
+        "Conduct fair and impartial investigation of trade practices",
+        "Propose solutions that comply with WTO rules",
+        "Prevent escalation into broader trade war"
+      ],
+      "starting_forces": [
+        {
+          "unit_name": "Arbitration Panel",
+          "starting_location": "Geneva",
+          "details": "Expert trade law judges"
+        },
+        {
+          "unit_name": "Investigation Team",
+          "starting_location": "Field Offices",
+          "details": "Gathering evidence and testimony"
+        },
+        {
+          "unit_name": "Compliance Monitoring Unit",
+          "starting_location": "Global Network",
+          "details": "Tracking trade flows and practices"
+        }
+      ]
+    }
+  ],
+  "turn_length": "2 weeks",
+  "game_length": 5
+} 

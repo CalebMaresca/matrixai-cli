@@ -1,0 +1,89 @@
+{
+  "name": "Diplomatic Crisis Simulation",
+  "category": "Political",
+  "description": "A tense diplomatic scenario between three nations for MVP demonstration",
+  "introduction": "The crisis began three weeks ago when satellite imagery revealed suspicious activities in Nation Alpha's border region. Nation Beta immediately called for emergency UN Security Council sessions and began organizing economic sanctions. Nation Alpha denies wrongdoing and claims the evidence is fabricated. Both nations have mobilized military forces 'for defensive purposes only,' while civilians in border areas flee to safer regions. The international community watches nervously as diplomatic channels strain under mounting pressure.",
+  "background_briefing": "A regional crisis has emerged following Nation Alpha's alleged violation of international agreements. Nation Beta leads a coalition imposing economic sanctions, while tensions rise along disputed borders. The UN has deployed mediators to prevent escalation, but time is running short as domestic pressures mount in both nations.",
+  "actors": [
+    {
+      "actor_name": "Nation Alpha",
+      "actor_briefing": "You are the government of Nation Alpha, a regional power facing economic sanctions. Your primary concern is maintaining sovereignty while addressing international pressure.",
+      "objectives": [
+        "Maintain national sovereignty and resist external pressure",
+        "Secure economic relief from sanctions",
+        "Preserve domestic political stability"
+      ],
+      "starting_forces": [
+        {
+          "unit_name": "Diplomatic Corps",
+          "starting_location": "Capital City",
+          "details": "Experienced diplomatic team"
+        },
+        {
+          "unit_name": "Economic Ministry",
+          "starting_location": "Capital City",
+          "details": "Managing sanctions impact"
+        },
+        {
+          "unit_name": "Military Command",
+          "starting_location": "Border Region",
+          "details": "Defensive posture"
+        }
+      ]
+    },
+    {
+      "actor_name": "Nation Beta",
+      "actor_briefing": "You are the government of Nation Beta, leading an international coalition imposing sanctions on Nation Alpha. You seek compliance with international law while avoiding escalation.",
+      "objectives": [
+        "Ensure Nation Alpha complies with international agreements",
+        "Maintain coalition unity and international support",
+        "Avoid military escalation while applying pressure"
+      ],
+      "starting_forces": [
+        {
+          "unit_name": "Coalition Coordination Office",
+          "starting_location": "Capital City",
+          "details": "Managing international coalition"
+        },
+        {
+          "unit_name": "Economic Sanctions Team",
+          "starting_location": "Capital City",
+          "details": "Implementing trade restrictions"
+        },
+        {
+          "unit_name": "Naval Task Force",
+          "starting_location": "International Waters",
+          "details": "Monitoring compliance"
+        }
+      ]
+    },
+    {
+      "actor_name": "UN Mediator",
+      "actor_briefing": "You are a UN special envoy tasked with mediating the crisis. Your goal is to find a peaceful resolution that satisfies international law while preventing conflict.",
+      "objectives": [
+        "Facilitate peaceful dialogue between parties",
+        "Propose compromise solutions acceptable to all sides",
+        "Prevent escalation to armed conflict"
+      ],
+      "starting_forces": [
+        {
+          "unit_name": "Mediation Team",
+          "starting_location": "Neutral Territory",
+          "details": "Experienced conflict resolution specialists"
+        },
+        {
+          "unit_name": "Monitoring Mission",
+          "starting_location": "Border Region",
+          "details": "Observing compliance and tensions"
+        },
+        {
+          "unit_name": "Humanitarian Office",
+          "starting_location": "Regional Hub",
+          "details": "Addressing civilian impact"
+        }
+      ]
+    }
+  ],
+  "turn_length": "72 hours",
+  "game_length": 2
+} 

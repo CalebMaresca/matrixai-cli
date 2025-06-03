@@ -1,0 +1,11 @@
+{
+    "dockerfile_lines": [],
+    "graphs": {
+        "matrix_game": "./src/matrix_ai/main_game_graph.py:graph"
+    },
+    "python_version": "3.13",
+    "env": "./.venv",
+    "dependencies": [
+        "."
+    ]
+}
