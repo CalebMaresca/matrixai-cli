@@ -31,8 +31,8 @@ These games are particularly valuable for strategic planning, policy analysis, t
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd matrix-wargame-cli
+git clone https://github.com/CalebMaresca/matrixai-cli.git
+cd matrixai-cli
 ```
 
 2. Create venv and install dependencies:
