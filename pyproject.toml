@@ -14,7 +14,6 @@ dependencies = [
     "langgraph",
     "langgraph-cli[inmem]>=0.2.10",
     "pydantic",
-    "unstructured[pdf]",
 ]
 
 [project.optional-dependencies]

@@ -35,8 +35,10 @@ git clone <repository-url>
 cd matrix-wargame-cli
 ```
 
-2. Install dependencies:
+2. Create venv and install dependencies:
 ```bash
+python -m venv .venv
+source .venv/bin/activate
 pip install -e .
 ```
 
